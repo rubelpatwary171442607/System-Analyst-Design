@@ -1,5 +1,5 @@
 # CU-CSE: System Analysis & Design
-Contains Documents of System Analysis &amp; Design for the City University of Bangladesh
+Contains Documents of System Analysis &amp;
 <br/><br/>
 # [MID-Term]
 ## [Theory Documents | CSE-325]
@@ -19,6 +19,14 @@ Contains Documents of System Analysis &amp; Design for the City University of Ba
 #### 4. [Activity Diagram for ATM Raw](https://github.com/rubelpatwary171442607/rubel-patwary/blob/master/Activity%20%20Diagram%20for%20ATM.dia)
 #### 5. [Activity Diagram for ATM Image File](https://github.com/rubelpatwary171442607/rubel-patwary/blob/master/Activity%20%20Diagram%20for%20ATM.jpeg)
 #### 6. [Activity Diagram for ATM](https://github.com/rubelpatwary171442607/rubel-patwary/blob/master/Activity%20%20Diagram%20for%20ATM.pdf)
+<br/><br/>
+
+# [Final Project]
+#### 7. [Library Management (Source Codes)]()
+#### 8. [Library Management Presentation](https://github.com/rubelpatwary171442607/rubel-patwary/blob/master/Library%20Management%20Presentation.pptx)
+#### 9. [Library Management Report Doc File](https://github.com/rubelpatwary171442607/rubel-patwary/blob/master/Library%20Management%20Report.docx)
+#### 10. [Library Management Report](https://github.com/rubelpatwary171442607/rubel-patwary/blob/master/Library%20Management%20Report.pdf)
+# [LAB Assignment]
 # [Templete[
 
 ## [LAB Documents | CSE-326]
