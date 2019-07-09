@@ -1,5 +1,5 @@
 # CU-CSE: System Analysis & Design
-Contains Documents of System Analysis &amp;
+Contains Documents of System Analysis & Design;
 <br/><br/>
 # [MID-Term]
 ## [Theory Documents | CSE-325]
@@ -33,4 +33,3 @@ Contains Documents of System Analysis &amp;
 #### 14. [GeneralizationSourceCode](https://github.com/rubelpatwary171442607/rubel-patwary/tree/master/GeneralizationSourceCode)
 #### 15. [Generalization Class Diagram image file](https://github.com/rubelpatwary171442607/rubel-patwary/blob/master/Generalization%20Class%20Diagram.jpg)
 #### 16. [Association and Generalization Assignment pdf](https://github.com/rubelpatwary171442607/rubel-patwary/blob/master/Association%20and%20Generalization%20Assignment%20.pdf)
-# [Templete]
